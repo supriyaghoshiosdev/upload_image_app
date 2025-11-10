@@ -11,7 +11,7 @@ The app features a clean grid-based layout for managing uploaded images and a cu
   Users can select or capture an image and upload it directly to Firebase Realtime Database (as Base64-encoded strings).
 
 - **Image Listing**  
-  Displays all uploaded images in a **3-column grid layout**, fetched dynamically from Firebase.
+  Displays all uploaded images in a **2-column grid layout**, fetched dynamically from Firebase.
 
 - **Custom Delete Confirmation**  
   When deleting an image, a smooth popup confirmation (not a native alert) appears before removing it from the database.
